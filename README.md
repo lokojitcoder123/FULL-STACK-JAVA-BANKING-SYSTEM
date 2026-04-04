@@ -482,12 +482,26 @@ Contributions are welcome! Here's how:
 5. **Open** a Pull Request
 
 ---
+<div align="center">
 
-## 📄 License
+## 🤖 AI Tools Used
 
-This project is open source and available under the [MIT License](LICENSE).
+<br>
 
----
+<a href="https://chatgpt.com" target="_blank">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://claude.ai" target="_blank">
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.perplexity.ai" target="_blank">
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+</a>
+
+</div>
+
 
 ## 👨‍💻 Author
 
